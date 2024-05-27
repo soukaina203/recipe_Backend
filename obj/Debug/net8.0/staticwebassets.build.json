@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MTd7cnWrKqqInmccFdgXVPo2QgXFjfo5qASp4v2FQfc=",
+  "Source": "recipe_back",
+  "BasePath": "_content/recipe_back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
