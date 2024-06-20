@@ -8,10 +8,10 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace Services
 {
-     public class TokenHandler
+     public class TokenHandlerService
     {
         private readonly AppSettings _appSettings;
-        public TokenHandler(IOptions<AppSettings> appSettings)
+        public TokenHandlerService(IOptions<AppSettings> appSettings)
         {
             _appSettings = appSettings.Value;
         }

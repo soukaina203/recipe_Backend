@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/categories/Group 7.png"
     },
     {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/categories/RRRRRRRRRRRRRRR.png",
+      "PackagePath": "staticwebassets/categories/RRRRRRRRRRRRRRR.png"
+    },
+    {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-16 23-46-59.png",
       "PackagePath": "staticwebassets/categories/Screenshot from 2024-06-16 23-46-59.png"
     },
@@ -19,6 +23,14 @@
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-18 23-33-04.png",
       "PackagePath": "staticwebassets/categories/Screenshot from 2024-06-18 23-33-04.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-19 00-34-45.png",
+      "PackagePath": "staticwebassets/categories/Screenshot from 2024-06-19 00-34-45.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-19 01-51-43.png",
+      "PackagePath": "staticwebassets/categories/Screenshot from 2024-06-19 01-51-43.png"
     },
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/categories/hhh-removebg-preview.png",
@@ -87,6 +99,10 @@
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-18 23-47-56.png",
       "PackagePath": "staticwebassets/users/Screenshot from 2024-06-18 23-47-56.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-19 01-51-43.png",
+      "PackagePath": "staticwebassets/users/Screenshot from 2024-06-19 01-51-43.png"
     },
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/_ (1).jpeg",

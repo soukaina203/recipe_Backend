@@ -14,86 +14,84 @@ using Microsoft.Extensions.Options;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Extensions.Logging;
 using Context;
+
 namespace Controllers
 {
     [ApiController]
-    [Authorize]
     [Route("api/[controller]/[action]")]
     public class AccountController : SuperController<User>
     {
-        private readonly TokenHandler _tokkenHandler;
+        private readonly TokenHandlerService _tokkenHandler;
         private readonly Crypto _crypto;
         private readonly MyContext _context;
 
-           public AccountController(MyContext context
-               , TokenHandler tokkenHandler
-            , Crypto crypto
-           ) : base(context)
+        public AccountController(MyContext context, TokenHandlerService tokkenHandler, Crypto crypto) : base(context)
         {
-              _tokkenHandler = tokkenHandler;
+            _tokkenHandler = tokkenHandler;
             _crypto = crypto;
             _context = context;
         }
+
         [HttpPost]
+        [AllowAnonymous] // Allow anonymous access to the Register endpoint
         public async Task<IActionResult> Register(User user)
-{
+        {
             var emailExiste = await _context.Users.FirstOrDefaultAsync(e => e.Email == user.Email);
             if (emailExiste != null)
             {
-                return Ok(new { code = -1, message = "Email deja exister" });
+                return Ok(new { code = -1, message = "Email already exists" });
             }
             user.Password = _crypto.HashPassword(user.Password);
             try
             {
                 await _context.Users.AddAsync(user);
-
                 await _context.SaveChangesAsync();
                 var claims = new Claim[]
-                                {
-                        new Claim(ClaimTypes.Name, user.Id.ToString()),
-                        new Claim(ClaimTypes.Email, user.Email),
-                                };
+                {
+                    new Claim(ClaimTypes.Name, user.Id.ToString()),
+                    new Claim(ClaimTypes.Email, user.Email),
+                };
                 var token = _tokkenHandler.GenerateTokken(claims);
-                return Ok(new { code = 1, message = "Register Successful" });
+                return Ok(new { code = 1, message = "Register Successful", Token = token });
             }
             catch (DbUpdateConcurrencyException ex)
             {
                 return Ok(new { code = -2, message = ex.Message });
+            }
+        }
 
-            }        
-}
- [HttpPost]
+        [HttpPost]
+        [AllowAnonymous] // Allow anonymous access to the Login endpoint
         public async Task<IActionResult> Login(UserDTO model)
         {
             if (string.IsNullOrEmpty(model.Email) || string.IsNullOrEmpty(model.Password))
             {
                 return Ok(new { message = "Email | password required", code = -4 });
             }
-            var User = await _context.Users.Where(x => x.Email == model.Email).AsNoTracking().FirstOrDefaultAsync();
+            var user = await _context.Users.Where(x => x.Email == model.Email).AsNoTracking().FirstOrDefaultAsync();
             var newHash = _crypto.HashPassword(model.Password);
-            if (User == null)
+            if (user == null)
             {
-                return Ok(new { message = "Email error ", code = -3 });
+                return Ok(new { message = "Email error", code = -3 });
             }
-            if (newHash != User.Password)
+            if (newHash != user.Password)
             {
                 return Ok(new { message = "Error Password", code = -1 });
             }
             var claims = new Claim[]
-                           {
-                        new(ClaimTypes.Name, User.Id.ToString()),
-                        new(ClaimTypes.Email, User.Email)};
+            {
+                new(ClaimTypes.Name, user.Id.ToString()),
+                new(ClaimTypes.Email, user.Email)
+            };
 
             var token = _tokkenHandler.GenerateTokken(claims);
-            return Ok(new { User, Token = token, Code = 1 });
+            return Ok(new { user, Token = token, code = 1 });
         }
+    }
 
-    }    public class UserDTO
+    public class UserDTO
     {
         public string Email { get; set; }
         public string Password { get; set; }
     }
-
-
-
-    }
+}
