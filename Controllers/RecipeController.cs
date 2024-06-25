@@ -29,6 +29,15 @@ namespace Controllers
             return Ok(new { items = recipes });
         }
 
+    [HttpGet("{id}")]
+    public override async Task<IActionResult> GetById(int id)
+        {
+            // Custom implementation for RecipeController
+   var model = await _context.Recipes
+                              .Include(r => r.Category)
+                              .FirstOrDefaultAsync(r => r.Id == id);
+            return Ok(model);
+        }
 
 
 
