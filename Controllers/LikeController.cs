@@ -21,7 +21,9 @@ namespace Controllers
         public async Task<IActionResult> GetLikesOfaRecipe(int id)
         {
          var count = await _context.Likes.CountAsync(e => e.IdRecipe == id);
-            return Ok(count);
+         var Likes = await _context.Likes.Where(e => e.IdRecipe == id).ToListAsync();
+
+            return Ok(new{count=count , likes=Likes});
         }
 
            [HttpDelete("{userId}/{recipeId}")]
