@@ -25,7 +25,7 @@ namespace Controllers
         {
             var model = await _context.Set<T>().ToListAsync();
            
-            return Ok(new {items=model});
+            return Ok(model);
 
 
         }
