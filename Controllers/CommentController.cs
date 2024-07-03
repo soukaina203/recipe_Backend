@@ -16,6 +16,17 @@ namespace Controllers
           public commentaireController(MyContext context) : base(context)
         {
         }
+
+             [HttpGet("")]
+        public override async Task<IActionResult> GetAll()
+        {
+            var model = await _context.Comments.Include(i=>i.User).ToListAsync();
+           
+            return Ok(model);
+
+
+        }
+
         [HttpGet("{id}")]
 
         public async Task<IActionResult> getCommentOfaRecipe(int id)
@@ -25,4 +36,7 @@ namespace Controllers
 
             return Ok(new{count=count , comments=comments});
         }    }
+
+
+        
 }

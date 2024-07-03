@@ -70,13 +70,14 @@ namespace Controllers
             }
             var user = await _context.Users.Where(x => x.Email == model.Email).AsNoTracking().FirstOrDefaultAsync();
             var newHash = _crypto.HashPassword(model.Password);
+
             if (user == null)
             {
                 return Ok(new { message = "Email error", code = -3 });
             }
             if (newHash != user.Password)
             {
-                return Ok(new { message = "Error Password", code = -1 });
+                return Ok(new { message = "Error Password", code = -1 , oldPwd=user , newOne = newHash });
             }
             var claims = new Claim[]
             {

@@ -26,7 +26,7 @@ namespace Controllers
                                         .Include(r => r.User) // Assuming a relationship with Ingredients
                                         .Include(r => r.Category) // Assuming a relationship with Ingredients
                                         .ToListAsync();
-            return Ok(new { items = recipes });
+            return Ok(recipes );
         }
 
     [HttpGet("{id}")]

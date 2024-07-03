@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets/categories/Screenshot from 2024-06-21 00-38-28.png"
     },
     {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/categories/vvvvvvvvvvv.jpeg",
+      "PackagePath": "staticwebassets/categories/vvvvvvvvvvv.jpeg"
+    },
+    {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/recipes/Group 7.png",
       "PackagePath": "staticwebassets/recipes/Group 7.png"
     },
@@ -47,6 +51,18 @@
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/recipes/Screenshot from 2024-06-24 15-49-08.png",
       "PackagePath": "staticwebassets/recipes/Screenshot from 2024-06-24 15-49-08.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/recipes/pistachio.jpeg",
+      "PackagePath": "staticwebassets/recipes/pistachio.jpeg"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/recipes/pizza.jpeg",
+      "PackagePath": "staticwebassets/recipes/pizza.jpeg"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/recipes/rice.jpeg",
+      "PackagePath": "staticwebassets/recipes/rice.jpeg"
     },
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Group 7.png",
@@ -169,12 +185,52 @@
       "PackagePath": "staticwebassets/users/Screenshot from 2024-06-21 10-42-47.png"
     },
     {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-27 18-35-08.png",
+      "PackagePath": "staticwebassets/users/Screenshot from 2024-06-27 18-35-08.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-33-48.png",
+      "PackagePath": "staticwebassets/users/Screenshot from 2024-06-29 11-33-48.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-34-30.png",
+      "PackagePath": "staticwebassets/users/Screenshot from 2024-06-29 11-34-30.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-37-31.png",
+      "PackagePath": "staticwebassets/users/Screenshot from 2024-06-29 11-37-31.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-39-06.png",
+      "PackagePath": "staticwebassets/users/Screenshot from 2024-06-29 11-39-06.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-42-12.png",
+      "PackagePath": "staticwebassets/users/Screenshot from 2024-06-29 11-42-12.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-44-03.png",
+      "PackagePath": "staticwebassets/users/Screenshot from 2024-06-29 11-44-03.png"
+    },
+    {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/_ (1).jpeg",
       "PackagePath": "staticwebassets/users/_ (1).jpeg"
     },
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/_.jpeg",
       "PackagePath": "staticwebassets/users/_.jpeg"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/callanderie.png",
+      "PackagePath": "staticwebassets/users/callanderie.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/contactUs.png",
+      "PackagePath": "staticwebassets/users/contactUs.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/createNiveauScolaire.png",
+      "PackagePath": "staticwebassets/users/createNiveauScolaire.png"
     },
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/h-removebg-preview.png",
@@ -187,6 +243,10 @@
     {
       "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/tfs.png",
       "PackagePath": "staticwebassets/users/tfs.png"
+    },
+    {
+      "Id": "/media/soukaina/Data/recipe_back/wwwroot/users/vvvvvvvvvvv.jpeg",
+      "PackagePath": "staticwebassets/users/vvvvvvvvvvv.jpeg"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.recipe_back.props",
