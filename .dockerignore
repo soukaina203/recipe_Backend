@@ -1,0 +1,13 @@
+bin/
+obj/
+.vscode/
+*.user
+*.log
+*.md
+*.zip
+*.tar
+*.tar.gz
+node_modules/
+.env
+*.db
+*.sqlite

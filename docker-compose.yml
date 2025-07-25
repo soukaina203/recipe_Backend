@@ -1,0 +1,33 @@
+version : '3.5'
+
+services:
+  info-backend: 
+    container_name: recipe-backend
+    build : .
+    ports:
+      - "5228:5000"
+    volumes:
+      - ./wwwroot:/app/wwwroot  
+    networks:
+      - info-network
+
+  pg-db:
+    container_name: pg-db
+    image: postgres
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=maRaNV
+      - POSTGRES_DB=recipes
+    ports:
+      - "5432:5432"
+     
+    networks:
+      - info-network
+
+
+
+
+networks:
+  info-network:
+    driver: bridge

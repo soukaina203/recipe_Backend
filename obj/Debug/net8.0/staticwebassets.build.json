@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xZhQ4xau8qTNNgWFz9T6VkWraToPVLvqVzknIQvtT44=",
+  "Hash": "gJjDV+T5WzFdeiUGYAAtoTyQAPqXNP7knANfKlYst/c=",
   "Source": "recipe_back",
   "BasePath": "_content/recipe_back",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "recipe_back/wwwroot",
+      "Name": "recipe_back\\wwwroot",
       "Source": "recipe_back",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-20 16-07-19.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\categories\\Screenshot from 2024-06-20 16-07-19.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "categories/Screenshot from 2024-06-20 16-07-19.png",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/categories/Screenshot from 2024-06-20 16-07-19.png"
+      "OriginalItemSpec": "wwwroot\\categories\\Screenshot from 2024-06-20 16-07-19.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-20 16-09-24.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\categories\\Screenshot from 2024-06-20 16-09-24.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "categories/Screenshot from 2024-06-20 16-09-24.png",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/categories/Screenshot from 2024-06-20 16-09-24.png"
+      "OriginalItemSpec": "wwwroot\\categories\\Screenshot from 2024-06-20 16-09-24.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-20 16-41-22.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\categories\\Screenshot from 2024-06-20 16-41-22.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "categories/Screenshot from 2024-06-20 16-41-22.png",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/categories/Screenshot from 2024-06-20 16-41-22.png"
+      "OriginalItemSpec": "wwwroot\\categories\\Screenshot from 2024-06-20 16-41-22.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-20 18-12-24.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\categories\\Screenshot from 2024-06-20 18-12-24.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "categories/Screenshot from 2024-06-20 18-12-24.png",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/categories/Screenshot from 2024-06-20 18-12-24.png"
+      "OriginalItemSpec": "wwwroot\\categories\\Screenshot from 2024-06-20 18-12-24.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-20 23-59-13.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\categories\\Screenshot from 2024-06-20 23-59-13.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "categories/Screenshot from 2024-06-20 23-59-13.png",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/categories/Screenshot from 2024-06-20 23-59-13.png"
+      "OriginalItemSpec": "wwwroot\\categories\\Screenshot from 2024-06-20 23-59-13.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/categories/Screenshot from 2024-06-21 00-38-28.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\categories\\Screenshot from 2024-06-21 00-38-28.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "categories/Screenshot from 2024-06-21 00-38-28.png",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/categories/Screenshot from 2024-06-21 00-38-28.png"
+      "OriginalItemSpec": "wwwroot\\categories\\Screenshot from 2024-06-21 00-38-28.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/categories/vvvvvvvvvvv.jpeg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\categories\\vvvvvvvvvvv.jpeg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "categories/vvvvvvvvvvv.jpeg",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/categories/vvvvvvvvvvv.jpeg"
+      "OriginalItemSpec": "wwwroot\\categories\\vvvvvvvvvvv.jpeg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/Group 7.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\Group 7.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/Group 7.png",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/Group 7.png"
+      "OriginalItemSpec": "wwwroot\\recipes\\Group 7.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/pistachio.jpeg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\pistachio.jpeg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/pistachio.jpeg",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/pistachio.jpeg"
+      "OriginalItemSpec": "wwwroot\\recipes\\pistachio.jpeg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/pizza.jpeg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\pizza.jpeg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/pizza.jpeg",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/pizza.jpeg"
+      "OriginalItemSpec": "wwwroot\\recipes\\pizza.jpeg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/rice.jpeg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\rice.jpeg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/rice.jpeg",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/rice.jpeg"
+      "OriginalItemSpec": "wwwroot\\recipes\\rice.jpeg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/Screenshot from 2024-06-20 16-41-22.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\Screenshot from 2024-06-20 16-41-22.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/Screenshot from 2024-06-20 16-41-22.png",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/Screenshot from 2024-06-20 16-41-22.png"
+      "OriginalItemSpec": "wwwroot\\recipes\\Screenshot from 2024-06-20 16-41-22.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/Screenshot from 2024-06-20 18-27-06.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\Screenshot from 2024-06-20 18-27-06.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/Screenshot from 2024-06-20 18-27-06.png",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/Screenshot from 2024-06-20 18-27-06.png"
+      "OriginalItemSpec": "wwwroot\\recipes\\Screenshot from 2024-06-20 18-27-06.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/Screenshot from 2024-06-21 00-00-20.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\Screenshot from 2024-06-21 00-00-20.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/Screenshot from 2024-06-21 00-00-20.png",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/Screenshot from 2024-06-21 00-00-20.png"
+      "OriginalItemSpec": "wwwroot\\recipes\\Screenshot from 2024-06-21 00-00-20.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/Screenshot from 2024-06-21 00-38-28.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\Screenshot from 2024-06-21 00-38-28.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/Screenshot from 2024-06-21 00-38-28.png",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/Screenshot from 2024-06-21 00-38-28.png"
+      "OriginalItemSpec": "wwwroot\\recipes\\Screenshot from 2024-06-21 00-38-28.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/recipes/Screenshot from 2024-06-24 15-49-08.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\recipes\\Screenshot from 2024-06-24 15-49-08.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "recipes/Screenshot from 2024-06-24 15-49-08.png",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/recipes/Screenshot from 2024-06-24 15-49-08.png"
+      "OriginalItemSpec": "wwwroot\\recipes\\Screenshot from 2024-06-24 15-49-08.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/_ (1).jpeg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\_ (1).jpeg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/_ (1).jpeg",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/_ (1).jpeg"
+      "OriginalItemSpec": "wwwroot\\users\\_ (1).jpeg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/_.jpeg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\_.jpeg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/_.jpeg",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/_.jpeg"
+      "OriginalItemSpec": "wwwroot\\users\\_.jpeg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/callanderie.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\callanderie.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/callanderie.png",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/callanderie.png"
+      "OriginalItemSpec": "wwwroot\\users\\callanderie.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/contactUs.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\contactUs.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/contactUs.png",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/contactUs.png"
+      "OriginalItemSpec": "wwwroot\\users\\contactUs.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/createNiveauScolaire.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\createNiveauScolaire.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/createNiveauScolaire.png",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/createNiveauScolaire.png"
+      "OriginalItemSpec": "wwwroot\\users\\createNiveauScolaire.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Group 7.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Group 7.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Group 7.png",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Group 7.png"
+      "OriginalItemSpec": "wwwroot\\users\\Group 7.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/h-removebg-preview.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\h-removebg-preview.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/h-removebg-preview.png",
       "AssetKind": "All",
@@ -451,13 +451,32 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/h-removebg-preview.png"
+      "OriginalItemSpec": "wwwroot\\users\\h-removebg-preview.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/male-06.jpg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\i6.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
+      "BasePath": "_content/recipe_back",
+      "RelativePath": "users/i6.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\users\\i6.png"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\male-06.jpg",
+      "SourceId": "recipe_back",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/male-06.jpg",
       "AssetKind": "All",
@@ -470,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/male-06.jpg"
+      "OriginalItemSpec": "wwwroot\\users\\male-06.jpg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/male-07.jpg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\male-07.jpg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/male-07.jpg",
       "AssetKind": "All",
@@ -489,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/male-07.jpg"
+      "OriginalItemSpec": "wwwroot\\users\\male-07.jpg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/male-08.jpg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\male-08.jpg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/male-08.jpg",
       "AssetKind": "All",
@@ -508,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/male-08.jpg"
+      "OriginalItemSpec": "wwwroot\\users\\male-08.jpg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/male-09.jpg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\male-09.jpg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/male-09.jpg",
       "AssetKind": "All",
@@ -527,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/male-09.jpg"
+      "OriginalItemSpec": "wwwroot\\users\\male-09.jpg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/male-10.jpg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\male-10.jpg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/male-10.jpg",
       "AssetKind": "All",
@@ -546,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/male-10.jpg"
+      "OriginalItemSpec": "wwwroot\\users\\male-10.jpg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/male-11.jpg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\male-11.jpg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/male-11.jpg",
       "AssetKind": "All",
@@ -565,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/male-11.jpg"
+      "OriginalItemSpec": "wwwroot\\users\\male-11.jpg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/photo1718888473.jpeg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\photo1718888473.jpeg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/photo1718888473.jpeg",
       "AssetKind": "All",
@@ -584,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/photo1718888473.jpeg"
+      "OriginalItemSpec": "wwwroot\\users\\photo1718888473.jpeg"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-05-27 15-58-20.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-05-27 15-58-20.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-05-27 15-58-20.png",
       "AssetKind": "All",
@@ -603,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-05-27 15-58-20.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-05-27 15-58-20.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-05-27 18-38-58.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-05-27 18-38-58.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-05-27 18-38-58.png",
       "AssetKind": "All",
@@ -622,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-05-27 18-38-58.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-05-27 18-38-58.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-05-28 18-43-28.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-05-28 18-43-28.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-05-28 18-43-28.png",
       "AssetKind": "All",
@@ -641,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-05-28 18-43-28.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-05-28 18-43-28.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-05-28 22-58-11.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-05-28 22-58-11.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-05-28 22-58-11.png",
       "AssetKind": "All",
@@ -660,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-05-28 22-58-11.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-05-28 22-58-11.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-05-29 19-20-27.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-05-29 19-20-27.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-05-29 19-20-27.png",
       "AssetKind": "All",
@@ -679,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-05-29 19-20-27.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-05-29 19-20-27.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-05-31 01-10-00.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-05-31 01-10-00.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-05-31 01-10-00.png",
       "AssetKind": "All",
@@ -698,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-05-31 01-10-00.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-05-31 01-10-00.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-01 01-07-19.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-01 01-07-19.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-01 01-07-19.png",
       "AssetKind": "All",
@@ -717,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-01 01-07-19.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-01 01-07-19.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-16 23-46-59.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-16 23-46-59.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-16 23-46-59.png",
       "AssetKind": "All",
@@ -736,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-16 23-46-59.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-16 23-46-59.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-17 01-23-19.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-17 01-23-19.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-17 01-23-19.png",
       "AssetKind": "All",
@@ -755,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-17 01-23-19.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-17 01-23-19.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-17 01-27-41.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-17 01-27-41.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-17 01-27-41.png",
       "AssetKind": "All",
@@ -774,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-17 01-27-41.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-17 01-27-41.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-17 01-27-48.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-17 01-27-48.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-17 01-27-48.png",
       "AssetKind": "All",
@@ -793,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-17 01-27-48.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-17 01-27-48.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-17 01-47-53.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-17 01-47-53.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-17 01-47-53.png",
       "AssetKind": "All",
@@ -812,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-17 01-47-53.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-17 01-47-53.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-18 23-47-56.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-18 23-47-56.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-18 23-47-56.png",
       "AssetKind": "All",
@@ -831,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-18 23-47-56.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-18 23-47-56.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-19 00-33-50.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-19 00-33-50.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-19 00-33-50.png",
       "AssetKind": "All",
@@ -850,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-19 00-33-50.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-19 00-33-50.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-19 01-51-43.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-19 01-51-43.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-19 01-51-43.png",
       "AssetKind": "All",
@@ -869,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-19 01-51-43.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-19 01-51-43.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-19 22-24-08.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-19 22-24-08.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-19 22-24-08.png",
       "AssetKind": "All",
@@ -888,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-19 22-24-08.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-19 22-24-08.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 16-36-02.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 16-36-02.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 16-36-02.png",
       "AssetKind": "All",
@@ -907,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 16-36-02.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 16-36-02.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 16-48-35.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 16-48-35.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 16-48-35.png",
       "AssetKind": "All",
@@ -926,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 16-48-35.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 16-48-35.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 18-10-29.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 18-10-29.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 18-10-29.png",
       "AssetKind": "All",
@@ -945,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 18-10-29.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 18-10-29.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 18-10-45.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 18-10-45.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 18-10-45.png",
       "AssetKind": "All",
@@ -964,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 18-10-45.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 18-10-45.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 18-11-16.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 18-11-16.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 18-11-16.png",
       "AssetKind": "All",
@@ -983,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 18-11-16.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 18-11-16.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 18-12-24.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 18-12-24.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 18-12-24.png",
       "AssetKind": "All",
@@ -1002,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 18-12-24.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 18-12-24.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 18-26-14.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 18-26-14.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 18-26-14.png",
       "AssetKind": "All",
@@ -1021,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 18-26-14.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 18-26-14.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 18-27-06.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 18-27-06.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 18-27-06.png",
       "AssetKind": "All",
@@ -1040,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 18-27-06.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 18-27-06.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-20 23-57-04.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-20 23-57-04.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-20 23-57-04.png",
       "AssetKind": "All",
@@ -1059,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-20 23-57-04.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-20 23-57-04.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-21 00-01-58.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-21 00-01-58.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-21 00-01-58.png",
       "AssetKind": "All",
@@ -1078,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-21 00-01-58.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-21 00-01-58.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-21 00-03-10.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-21 00-03-10.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-21 00-03-10.png",
       "AssetKind": "All",
@@ -1097,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-21 00-03-10.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-21 00-03-10.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-21 00-38-28.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-21 00-38-28.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-21 00-38-28.png",
       "AssetKind": "All",
@@ -1116,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-21 00-38-28.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-21 00-38-28.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-21 10-42-47.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-21 10-42-47.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-21 10-42-47.png",
       "AssetKind": "All",
@@ -1135,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-21 10-42-47.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-21 10-42-47.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-27 18-35-08.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-27 18-35-08.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-27 18-35-08.png",
       "AssetKind": "All",
@@ -1154,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-27 18-35-08.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-27 18-35-08.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-33-48.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-29 11-33-48.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-29 11-33-48.png",
       "AssetKind": "All",
@@ -1173,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-29 11-33-48.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-29 11-33-48.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-34-30.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-29 11-34-30.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-29 11-34-30.png",
       "AssetKind": "All",
@@ -1192,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-29 11-34-30.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-29 11-34-30.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-37-31.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-29 11-37-31.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-29 11-37-31.png",
       "AssetKind": "All",
@@ -1211,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-29 11-37-31.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-29 11-37-31.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-39-06.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-29 11-39-06.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-29 11-39-06.png",
       "AssetKind": "All",
@@ -1230,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-29 11-39-06.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-29 11-39-06.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-42-12.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-29 11-42-12.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-29 11-42-12.png",
       "AssetKind": "All",
@@ -1249,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-29 11-42-12.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-29 11-42-12.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/Screenshot from 2024-06-29 11-44-03.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-06-29 11-44-03.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/Screenshot from 2024-06-29 11-44-03.png",
       "AssetKind": "All",
@@ -1268,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/Screenshot from 2024-06-29 11-44-03.png"
+      "OriginalItemSpec": "wwwroot\\users\\Screenshot from 2024-06-29 11-44-03.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/tfs.png",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\tfs.png",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/tfs.png",
       "AssetKind": "All",
@@ -1287,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/tfs.png"
+      "OriginalItemSpec": "wwwroot\\users\\tfs.png"
     },
     {
-      "Identity": "/media/soukaina/Data/recipe_back/wwwroot/users/vvvvvvvvvvv.jpeg",
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\vvvvvvvvvvv.jpeg",
       "SourceId": "recipe_back",
       "SourceType": "Discovered",
-      "ContentRoot": "/media/soukaina/Data/recipe_back/wwwroot/",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
       "BasePath": "_content/recipe_back",
       "RelativePath": "users/vvvvvvvvvvv.jpeg",
       "AssetKind": "All",
@@ -1306,7 +1325,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/users/vvvvvvvvvvv.jpeg"
+      "OriginalItemSpec": "wwwroot\\users\\vvvvvvvvvvv.jpeg"
     }
   ]
 }
