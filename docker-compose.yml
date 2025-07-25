@@ -1,4 +1,3 @@
-version : '3.5'
 
 services:
   info-backend: 
@@ -9,7 +8,7 @@ services:
     volumes:
       - ./wwwroot:/app/wwwroot  
     networks:
-      - info-network
+      - recipe-network
 
   pg-db:
     container_name: pg-db
@@ -21,13 +20,17 @@ services:
       - POSTGRES_DB=recipes
     ports:
       - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data   
      
     networks:
-      - info-network
+      - recipe-network
 
-
+      
+volumes:
+  pgdata:
 
 
 networks:
-  info-network:
+  recipe-network:
     driver: bridge

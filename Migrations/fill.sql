@@ -24,7 +24,6 @@ VALUES (
         1,
         1
     );
-
-UPDATE "Users" SET "IsAdmin" = 1 WHERE "Id" = 1;
-
 SELECT "Id" FROM "Categories" WHERE "Nom" = 'Desserts';
+
+UPDATE "Users" SET "IsAdmin" = 1 WHERE "Id" = 2;
