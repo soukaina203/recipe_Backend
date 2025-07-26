@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gJjDV+T5WzFdeiUGYAAtoTyQAPqXNP7knANfKlYst/c=",
+  "Hash": "xOHeIuyNugMgFeNHL1cCS11yOmT9vsM5YGsKdwz1SIU=",
   "Source": "recipe_back",
   "BasePath": "_content/recipe_back",
   "Mode": "Default",
@@ -604,6 +604,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\users\\photo1718888473.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\screencapture-localhost-3000-2025-07-15-18_50_53.png",
+      "SourceId": "recipe_back",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\",
+      "BasePath": "_content/recipe_back",
+      "RelativePath": "users/screencapture-localhost-3000-2025-07-15-18_50_53.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\users\\screencapture-localhost-3000-2025-07-15-18_50_53.png"
     },
     {
       "Identity": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\Screenshot from 2024-05-27 15-58-20.png",

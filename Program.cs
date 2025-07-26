@@ -16,7 +16,7 @@ builder.Services.AddAuthentication();
 var appSettingsSection = Configuration.GetSection("AppSettings");
 builder.Services.Configure<AppSettings>(appSettingsSection);
 
-var connectionString = builder.Configuration.GetConnectionString("dockerTest");
+var connectionString = builder.Configuration.GetConnectionString("prodConnection");
 
 builder.Services.AddDbContext<MyContext>(options =>
     options.UseNpgsql(connectionString));

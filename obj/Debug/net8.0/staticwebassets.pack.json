@@ -269,6 +269,10 @@
       "PackagePath": "staticwebassets\\users\\photo1718888473.jpeg"
     },
     {
+      "Id": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\screencapture-localhost-3000-2025-07-15-18_50_53.png",
+      "PackagePath": "staticwebassets\\users\\screencapture-localhost-3000-2025-07-15-18_50_53.png"
+    },
+    {
       "Id": "C:\\Users\\hp\\Desktop\\To be deployed\\Recipe\\recipe_Backend\\wwwroot\\users\\tfs.png",
       "PackagePath": "staticwebassets\\users\\tfs.png"
     },
