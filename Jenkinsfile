@@ -44,7 +44,7 @@ node {
       // echo "Changes found in the folder ${e.name}:"
       // echo "${changes}"
 
-      app = docker.build("${e.name}", "-t ${e.name} -f ./${e.path}/Dockerfile ./")
+      app = docker.build("${e.name}", "-t ${e.name} -f ./${e.path}/dockerfile ./")
       // sh """docker build -t sa-dev-api-cms -f ./cmsApi/Dockerfile ./"""
 
        script{
